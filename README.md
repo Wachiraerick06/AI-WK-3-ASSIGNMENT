@@ -19,5 +19,5 @@
 
 **Authors:**  
 Diana Kemunto
-
 Maureen Chemutai
+Erick Wachira
