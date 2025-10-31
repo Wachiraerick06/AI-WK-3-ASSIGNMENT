@@ -18,6 +18,8 @@
 - Applied optimization: ReLU, Dropout, Adam optimizer
 
 **Authors:**  
-Diana Kemunto
+Diana Kemunto  
+
 Maureen Chemutai
+
 Erick Wachira
